@@ -5,6 +5,7 @@ Objectives:
 2.	To develop coding and to implement it in hardware of density based traffic light control system using arduino.
 
 Introduction:
+
 Due to the heavy traffic in the road many people are suffering. Even though there is traffic signal available at various places it is not easy to control the crowd. In order to avoid traffic problem heavily on the road, we designed and developed a system so called as density based traffic light control system.
 
 Circuit Operation:
@@ -18,6 +19,7 @@ When amount of cars increases ,light of IR transmitter intersect by cars to reac
 
 Flow Chart:
 
+![density](https://user-images.githubusercontent.com/47209023/63113940-3c1a8b80-bfb1-11e9-949a-4e139f6911bb.PNG)
 
 Advantages:
 •	Avoids wastage of time due to the traffic
